@@ -1,9 +1,9 @@
-Head of Development @Mugo.
+### Head of Development @Mugo.
 
 Focussing on Bespoke Shopify, Vue / Nuxt, Headless E-Commerce + Headless CMSs.  
 Exploring Svelte, Alpine.js, petite-vue, WEBGL.
 
-Working on
+### Working on
 
 - :toolbox: Front end tooling and build systems / processes.
 - :straight_ruler: Shareable configs to maintain code quality.
