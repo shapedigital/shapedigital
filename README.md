@@ -7,7 +7,7 @@ Exploring Svelte, Alpine.js, petite-vue, WEBGL.
 
 Working on
 
-- :toolbox: Front end tooling and build systems / processes for Shopify builds.
+- :toolbox: Front end tooling and build systems / processes.
 - :straight_ruler: Shareable configs to maintain code quality.
 - :package: Company-wide NPM / GitHub packages.
 - :desktop_computer: Building CLI tools to assist in development.
