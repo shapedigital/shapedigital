@@ -1,5 +1,3 @@
-# :wave: Hey there
-
 Head of Development @Mugo.
 
 Focussing on Bespoke Shopify, Vue / Nuxt, Headless E-Commerce + Headless CMSs.  
