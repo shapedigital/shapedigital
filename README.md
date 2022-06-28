@@ -1,16 +1,16 @@
-### Hi there 👋
+# :wave: Hey there
 
-<!--
-**shapedigital/shapedigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head of Development @Mugo.
 
-Here are some ideas to get you started:
+Focussing on Bespoke Shopify, Vue / Nuxt, Headless E-Commerce + Headless CMSs.  
+Exploring Svelte, Alpine.js, petite-vue, WEBGL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on
+
+- :toolbox: Front end tooling and build systems / processes for Shopify builds.
+- :straight_ruler: Shareable configs to maintain code quality.
+- :package: Company-wide NPM / GitHub packages.
+- :desktop_computer: Building CLI tools to assist in development.
+- :page_facing_up: Company-wide coding standards for Javascript, CSS, HTML, Liquid.
+
+Experienced with Shopify, Shopify Apps, Netlify, Prismic, Vue, Nuxt, Stylelint, ESLint, BrowsersList, BrowserSync, Webpack, Husky, DotEnv, GSAP, Sass, PostCSS and Cypress, WordPress, ESM / ECMAscript modules, Cloud / Serverless Functions and Realtime Databases (Firebase / Firestore).
