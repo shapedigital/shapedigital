@@ -1,4 +1,5 @@
 ### 🤖 Senior Front End Engineer @ Yagro.
 
-Focussing on Bespoke Shopify and Headless CMS's.  
-Playing with Vue, Svelte and Alpine.js.
+Focussing on Nuxt applications. 
+Long term interest in bespoke Shopify and Headless CMS's.  
+Playing with Vue, Nuxt, Svelte.
