@@ -1,5 +1,8 @@
-### Senior Front End Engineer @ 𝙔𝘼𝙂𝙍𝙊.
-Focussing on Nuxt applications. 
+## 👋 Hi, I’m Sam
 
-Long term interest in bespoke Shopify, Headless CMS's, high-end 'brochure' sites.
-Playing with Vue, Nuxt, Svelte and Tauri.
+**Senior Front End Engineer @ YAGRO**  
+Focused on Nuxt applications and high-performance web interfaces.
+
+I’m especially interested in bespoke Shopify builds, headless CMS setups, and high-end brochure-style sites. Currently playing with Vue, Nuxt, Svelte, and Tauri.
+
+🛠 Always building. Always refining.
