@@ -8,4 +8,5 @@ Currently playing with Vue, Nuxt, Svelte, and Tauri.
 
 Always learning, always building. 
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/sam-wells/))
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/sam-wells/)
+
